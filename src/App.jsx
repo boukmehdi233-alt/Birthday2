@@ -5,7 +5,7 @@ import { loadFull } from 'tsparticles';
 import './App.css';
 
 const BirthdaySite = () => {
-  const line1 = 'Happy Birthday Malaak! Aka my manager';
+  const line1 = 'Happy Birthday Marouaa!';
   const line2 =
     "Today is not just about celebrating your age, but celebrating the person you are, someone who brings light, kindness, and meaning to the people lucky enough to know you. I hope this year gives you moments that make you smile unexpectedly, dreams that turn into reality, and memories you'll never want to forget. You truly deserve something beautiful. Enjoy your day 🤍";
 
